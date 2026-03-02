@@ -18,6 +18,7 @@ WITH remote_job_skills AS (
     GROUP BY skill_id
 )
 SELECT 
+    skills_dim.skill_id AS skill_id,
     skills_dim.skills,
     remote_job_skills.skill_count
 FROM
