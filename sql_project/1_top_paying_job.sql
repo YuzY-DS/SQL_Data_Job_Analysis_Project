@@ -25,7 +25,6 @@ ORDER BY
     salary_year_avg DESC
 LIMIT 10;
 
-
 /*
 Here are the top-paying data analyst jobs, all of which are remote (Anywhere) and have specified average yearly salaries.
 The results include the job title, location, schedule type, posted date, and company name for each of the top 10 roles.
