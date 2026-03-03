@@ -23,6 +23,7 @@ For my deep dive into the data analyst job market, I harnessed the power of seve
 - **PostgreSQL:** The chosen database management system, ideal for handling the job posting data.
 - **Visual Studio Code:** My go-to for database management and executing SQL queries.
 - **Git & GitHub:** Essential for version control and sharing my SQL scripts and analysis, ensuring collaboration and project tracking.
+- **Microsoft Excel:** Used to visualize and present the analyzed data through charts.
 
 # The Analysis
 Each query for this project aimed at investigating specific aspects of the data analyst job market. Here’s how I approached each question:
@@ -56,7 +57,7 @@ Here's the breakdown of the top data analyst jobs in 2023:
 - **Job Title Variety:** There's a high diversity in job titles, from Data Analyst to Director of Analytics, reflecting varied roles and specializations within data analytics.
 
 ![Top Paying Job](./assets/1_top_paying_data_analyst_jobs.png)
-*Bar graph visualizing the salary for the top 10 salaries for data analysts; ChatGPT generated this graph from my SQL query results*
+*Bar graph visualizing the salary for the top 10 salaries for data analysts; I use Microsoft Excel to visaulize this graph from my SQL qery results.*
 
 ### 2. Skills for Top Paying Jobs
 To understand what skills are required for the top-paying jobs, I joined the job postings with the skills data, providing insights into what employers value for high-compensation roles.
@@ -95,7 +96,7 @@ Here's the breakdown of the most demanded skills for the top 10 highest paying d
 Other skills like **R**, **Snowflake**, **Pandas**, and **Excel** show varying degrees of demand.
 
 ![Top Paying Skills](./assets/2_skill_count_for_top_10_paying_data_analyst_job.png)
-*Bar graph visualizing the count of skills for the top 10 paying jobs for data analysts; ChatGPT generated this graph from my SQL query results*
+*Bar graph visualizing the count of skills for the top 10 paying jobs for data analysts; I use Microsoft Excel to visaulize this graph from my SQL qery results.*
 
 ### 3. In-Demand Skills for Data Analysts
 
